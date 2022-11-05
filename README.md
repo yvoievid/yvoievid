@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yvoievid
 - 👀 I’m interested in Java in ML
-- 🌱 I’m currently learning Spring Framework and Pandas
+- 🌱 I’m currently learning Spring Framework and Deep Learning
 - 💞️ I’m looking to collaborate on interesting projects
 
 <!---
