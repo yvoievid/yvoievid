@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yvoievid
-- 👀 I’m interested in Java in ML
+- 👀 I’m interested in Backend developement(Java) Machine Learning, Deep Learning and Data Science
 - 🌱 I’m currently learning Spring Framework and Deep Learning
 - 💞️ I’m looking to collaborate on interesting projects
 
